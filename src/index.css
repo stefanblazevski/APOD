@@ -195,4 +195,28 @@ footer button:hover {
     padding: 1rem 0 0 0;
     font-size: 1.5em;
   }
+
+  footer h2 {
+    font-size: 2rem;
+  }
+  
+  footer h1 {
+    font-size: 1.5rem;
+  }
+
+  footer button i {
+    font-size: 1.9rem;
+  }
+
+  .sidebarContents h2{
+    font-size: 2rem;
+  }
+
+  .descriptionTitle{
+    font-size: 1.7rem;
+  }
+
+  .descriptionContainer p:last-child{
+    font-size: 1.2rem;
+  }
 }
