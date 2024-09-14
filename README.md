@@ -1,6 +1,12 @@
-# APOD PROJECT 
-## https://apod-sb.netlify.app/
+# 👩‍🚀 APOD PROJECT 
+### https://apod-sb.netlify.app/
+Having fun with the Nasa API 👩‍🚀
 
+## Demo 🚩
+
+### Desktop View
+
+![Desktop view](desktopview.png)
 
 # React + Vite
 
