@@ -189,6 +189,10 @@ footer button:hover {
     overflow: hidden;
     width: 100%;
   }
+
+  .imgContainer{
+    width: 100%;
+  }
 }
 @media (min-width: 1024px) {
   .sidebarContents button {
